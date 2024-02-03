@@ -56,7 +56,7 @@ After that, we conducted an analysis wherein various models were applied to dist
 ## Conclusion
 
 
-# Simple Random Sampling:
+### Simple Random Sampling:
 Best Model: Logistic Regression
 
 Accuracy: 0.762009
