@@ -23,7 +23,7 @@ pip install pandas numpy matplotlib
 To check if the dataset is balanced or not, a bar graph is plotted using matplotlib.
 
 
-![Balance_Check](balance.png)<br/>
+![Balance_Check](check.png)<br/>
 
 As we can see from the bar graph, the given dataset is not balanced so, we applied diffrent techniques for the same.
 
@@ -50,4 +50,6 @@ We applied the following models on our samples and calculated their acuuracies f
 5. Random Forest<br/>
 
 After that, we conducted an analysis wherein various models were applied to distinct samples, and subsequently, the accuracies for each model-sample combination were recorded and organized in a tabular format given below:<br/>
+
+![Accuracy Table](accuracy.png)<br/>
 
