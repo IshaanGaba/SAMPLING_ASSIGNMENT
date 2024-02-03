@@ -53,21 +53,28 @@ After that, we conducted an analysis wherein various models were applied to dist
 
 ![Accuracy Table](accuracy.png)<br/>
 
-Conclusion
-Simple Random Sampling:
+## Conclusion
+
+
+# Simple Random Sampling:
 Best Model: Logistic Regression
 Accuracy: 0.713973799
-Systematic Sampling:
+
+# Systematic Sampling:
 Best Model: Logistic Regression
 Accuracy: 0.68558952
-Stratified Sampling:
+
+# Stratified Sampling:
 Best Model: Logistic Regression
 Accuracy: 0.834061135
-Cluster Sampling:
+
+# Cluster Sampling:
 Best Model: Logistic Regression
 Accuracy: 0.709606987
-Bootstrap Sampling:
+
+# Bootstrap Sampling:
 Best Model: Logistic Regression
 Accuracy: 0.703056769
-Logistic Regression consistently achieved the highest accuracy across different sampling techniques.
+
+##Logistic Regression consistently achieved the highest accuracy across different sampling techniques.
 
