@@ -62,25 +62,25 @@ Best Model: Logistic Regression
 Accuracy: 0.762009
 
 
-# Systematic Sampling:
+### Systematic Sampling:
 Best Model: Logistic Regression
 
 Accuracy: 0.709607
 
 
-# Stratified Sampling:
+### Stratified Sampling:
 Best Model: Logistic Regression
 
 Accuracy: 0.759825
 
 
-# Cluster Sampling:
+### Cluster Sampling:
 Best Model: Logistic Regression
 
 Accuracy: 0.716157
 
 
-# Bootstrap Sampling:
+### Bootstrap Sampling:
 Best Model: Logistic Regression
 
 Accuracy: 0.716157
