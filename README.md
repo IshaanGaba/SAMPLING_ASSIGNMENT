@@ -27,11 +27,6 @@ To check if the dataset is balanced or not, a bar graph is plotted using matplot
 
 As we can see from the bar graph, the given dataset is not balanced so, we applied diffrent techniques for the same.
 
-## Undersampling
-Undersampling involves reducing the number of instances from the majority class to match the minority class. This is implemented using the Undersampling.ipynb Jupyter Notebook.<br/>
-
-## Oversampling
-Oversampling involves increasing the number of instances in the minority class to match the majority class. This is implemented using the Oversampling.ipynb Jupyter Notebook.<br/>
 
 ## Sampling
 
