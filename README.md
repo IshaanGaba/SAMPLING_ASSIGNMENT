@@ -37,7 +37,7 @@ Jupyter Notebook demonstrates the creation of five different samples using vario
 * **Systematic Sampling:** Selecting every k-th instance from the dataset.<br/>
 * **Bootstrap Sampling:** Each bootstrap sample contains elements from both class 0 and class 1.<br/>
 
-We applied the following models on our samples and calculated their acuuracies for each sample:<br/><br/>
+We applied the following models on our samples and calculated their accuracies for each sample:<br/><br/>
 1. Logistic Regression<br/>
 2. SVM<br/>
 3. KNN<br/>
